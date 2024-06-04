@@ -1,0 +1,72 @@
+head {
+    color: black;
+    text-align: center;
+    font: size 120%;
+    font-family: fantasy;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(75, 3, 53);
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(14, 15, 14);
+    text-align: center;
+    font-size: 280%;
+    background-color: hotpink;
+}
+
+
+pre {
+    font-size: smaller;
+}
+img ./Imagenes/pussinboots's GIFs on Tenor.gif {
+    img-align: center
+}
+
+h2 {
+    text-align: center;
+    font-size: 250%;
+}
+
+body {
+    background-image: url("../Imagenes/FB_IMG_1715964283264.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    miTitulo {
+        background-color: blue;
+    }
+
+    h3 {
+        text-align: center;
+        font-size: 250;
+    }
+
+    footer {
+        text-align: center;
+  
+    }
+    footer a {
+    
+     background-color: black;
+
+    }
